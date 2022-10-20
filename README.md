@@ -23,7 +23,7 @@ specific trend at all)
 # DATASET
 Dataset link: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
 
-#CONCLUSION
+# CONCLUSION
 We observed from our dataset that after 2020, the Bitcoin trend started to increase. The trend
 normally peaks on Wednesday and generally troughs on Tuesday and Thursday. In terms of
 months, the trend rises from March to April and troughs in May to June.
